@@ -1,0 +1,16 @@
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\NKReportSystem.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\NKReportSystem.pdb
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Rocket.API.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Rocket.Core.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\Rocket.Unturned.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\UnityEngine.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\obj\Debug\NKReportSystem.csproj.AssemblyReference.cache
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\obj\Debug\NKReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\obj\Debug\NKReport.8DB07571.Up2Date
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\obj\Debug\NKReportSystem.dll
+C:\Users\Dogukan\source\repos\NKReportSystem\NKReportSystem\obj\Debug\NKReportSystem.pdb
